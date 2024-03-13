@@ -5,70 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde82b94-babd-40c1-9c2d-b90da12df7b0" name="Changes" comment="ta dando erro por causa do jdbc">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f1763f358c257ea3515417352b82b0165647ad1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c17724ea47250390d1a07651087d6b29a9365f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57db1b1db78e66635af98914f7a898e3d2b0f1ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5ae11b5965a8bc8dd68630014e5666a0432575ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cbf3615c730dc18f8b1033e20d0d299d6c76df1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7ce8ffbee29d8e160fdffb1d2b3c1a733d87ce58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8356b7c5b7565c96c1316caa3c0b0092e0ade6a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4c6fe39de9e108487c159d70267e3875179024d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4ccf608aaf1f3e51356f1613c81974e0bf0da62" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6eacff8a03b247c72cea88681d77cab6ce11fb1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca0644f653039f98ee88f9f5bc0d429833d5f83c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc837d3c045cb68233da9a3a5716e11a597905e9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eccea218da85f0333f73fd293f33b62141033bb9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f89a2a78d23773c428a71861a44a9475ad6aacf7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1f1763f358c257ea3515417352b82b0165647ad1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/c/3c17724ea47250390d1a07651087d6b29a9365f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/7/57db1b1db78e66635af98914f7a898e3d2b0f1ef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5ae11b5965a8bc8dd68630014e5666a0432575ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/d/5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/c/6cbf3615c730dc18f8b1033e20d0d299d6c76df1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/c/7ce8ffbee29d8e160fdffb1d2b3c1a733d87ce58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/8/b8356b7c5b7565c96c1316caa3c0b0092e0ade6a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/4/c4c6fe39de9e108487c159d70267e3875179024d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/4/c4ccf608aaf1f3e51356f1613c81974e0bf0da62" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/6/c6eacff8a03b247c72cea88681d77cab6ce11fb1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/a/ca0644f653039f98ee88f9f5bc0d429833d5f83c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/cc837d3c045cb68233da9a3a5716e11a597905e9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/eccea218da85f0333f73fd293f33b62141033bb9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/8/f89a2a78d23773c428a71861a44a9475ad6aacf7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/SpotifyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/spotify/cloud/spotify/SpotifyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/SpotifyApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/Band.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/Music.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/Playlist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/PlaylistMusics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/repository/BandRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/repository/MusicRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/repository/PlaylistMusicsRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/repository/PlaylistRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/repository/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/BandRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/BandRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/MusicRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/MusicRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +36,9 @@
         <option name="mavenHome" value="Use Maven wrapper" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -172,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710247363991</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ta dando erro por causa do jdbc">
+      <option name="closed" value="true" />
+      <created>1710330538861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710330538861</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ta dando erro por causa do jdbc">
+      <option name="closed" value="true" />
+      <created>1710330549735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710330549735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
