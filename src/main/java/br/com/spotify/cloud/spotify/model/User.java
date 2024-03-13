@@ -1,6 +1,8 @@
 package br.com.spotify.cloud.spotify.model;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotBlank;
 import lombok.Data;
 
 import java.util.List;
@@ -15,12 +17,16 @@ public class User {
     private UUID id;
 
     @Column
+    @NotBlank(message = "Name is mandatory")
     private String name;
 
     @Column
+    @NotBlank(message = "Email is mandatory")
+    @Email(message = "Email is invalid")
     private String email;
 
     @Column
+    @NotBlank(message = "Password is mandatory")
     private String password;
 
     @OneToMany
