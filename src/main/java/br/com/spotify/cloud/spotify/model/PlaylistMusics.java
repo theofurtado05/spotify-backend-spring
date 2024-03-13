@@ -13,9 +13,8 @@ public class PlaylistMusics {
     @GeneratedValue(strategy = GenerationType.UUID)
     private UUID id;
 
-    @Column
-    private Playlist playlist;
 
     @OneToMany
+    @JoinColumn(name = "music_id", referencedColumnName = "id")
     private List<Music> musics;
 }

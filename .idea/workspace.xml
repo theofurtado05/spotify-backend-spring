@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bde82b94-babd-40c1-9c2d-b90da12df7b0" name="Changes" comment="ta dando erro por causa do jdbc">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="bde82b94-babd-40c1-9c2d-b90da12df7b0" name="Changes" comment="..">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e883fd14c623c3d4943f5f649e30b270b7b2b331" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e883fd14c623c3d4943f5f649e30b270b7b2b331" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/BandRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/BandRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/MusicRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/repository/MusicRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/PlaylistMusics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/spotify/cloud/spotify/model/PlaylistMusics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/Playlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/Playlist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/PlaylistMusics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/spotify/cloud/spotify/model/PlaylistMusics.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710330549735</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="..">
+      <option name="closed" value="true" />
+      <created>1710330838555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710330838555</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -141,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mudando para java 17 e conectando ao banco" />
     <MESSAGE value="ta dando erro por causa do jdbc" />
-    <option name="LAST_COMMIT_MESSAGE" value="ta dando erro por causa do jdbc" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>

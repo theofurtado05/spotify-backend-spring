@@ -16,7 +16,4 @@ public class Playlist {
     @Column
     private String nome;
 
-    @ManyToOne
-    private User user;
-
 }

@@ -1,5 +1,10 @@
 
+Q
+java:S3740"/Provide the parametrized type for this generic.(í“Çºıÿÿÿÿ8ÊÇÙ½ã1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ïÅ»ã1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8 £Ğ½ã1
 T
-java:S1135"2Complete the task associated to this TODO comment.(‡‰âïıÿÿÿÿ8åÏÆ»ã1
+java:S1135"2Complete the task associated to this TODO comment.(‡‰âïıÿÿÿÿ8¤£Ğ½ã1
+M
+java:S1128
+"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8ÙÇÙ½ã1
